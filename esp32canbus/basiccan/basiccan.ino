@@ -22,7 +22,7 @@ void setup()
 //looping
 void loop() {
   // put your main code here, to run repeatedly:
-
+  //sendPacket();
 }
 
 //receive packet callback
